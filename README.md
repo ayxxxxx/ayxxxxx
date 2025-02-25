@@ -1,7 +1,7 @@
 # <Aymeric>
 
 # 💻 Tech Stack:
-Nothin', you buggin', you must not know that I'm thuggin' (HTML, CSS, JS, VUE.JS, THREE.JS, REACT, PYTHON, ARDUINO)
+Nothin', you buggin', you must not know that I'm thuggin' (HTML, CSS, JS, VUE.JS, THREE.JS, REACT, PYTHON, JAVA, ARDUINO)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ayxxxxx&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
