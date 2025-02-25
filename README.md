@@ -1,4 +1,4 @@
-# Yo, I'm Aymeric
+# <Aymeric>
 
 # 💻 Tech Stack:
 Nothin', you must not know that I'm thuggin' (HTML, CSS, JS, VUE.JS, PYTHON, ARDUINO)
