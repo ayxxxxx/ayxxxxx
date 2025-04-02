@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="150" />
+  <img src="![tumblr_inline_po5wowmIzp1wuj82d_500](https://github.com/user-attachments/assets/151ae9e8-3adb-43c3-8529-773145883ab0)" width="150" />
 </p>
 
 ---
