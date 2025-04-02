@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/assets/banner.gif?raw=true" alt="Header Banner" width="100%"/>
+  <img src="https://github.com/ayxxxxx/ayxxxxx/blob/main/assets/banner.gif?raw=true" alt="Header Banner" width="100%"/>
   
   <h1>⚡ Tech Stack & Learning Journey</h1>
   
