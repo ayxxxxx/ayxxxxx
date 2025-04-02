@@ -3,8 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/8d06db3d-fd4e-43b3-8d22-28b588470777)
-" width="150" />
+  <img src="https://64.media.tumblr.com/a68eb89e5f8dacb2ee231e670530750a/tumblr_inline_po5wowmIzp1wuj82d_500.gifv" width="150" />
 </p>
 
 ---
