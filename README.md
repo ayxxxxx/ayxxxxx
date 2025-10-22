@@ -8,7 +8,7 @@
 
 ---
 
-## 💻 Tech Stack:
+## Tech Stack:
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -24,7 +24,7 @@
 
 ---
 
-## 📝 Currently Learning:
+## Currently Learning:
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
@@ -35,7 +35,7 @@
 
 ---
 
-## 🤔 Want to Learn:
+## Want to Learn:
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
@@ -45,19 +45,4 @@
 
 
 ---
-
-## ✍️ Quote I Live By
-
-> *"Everyone knows that debugging is twice as hard as writing a program in the first place.  
-So if you’re as clever as you can be when you write it, how will you ever debug it?"*  
-> — **Brian Kernighan**
-
----
-
-## 🕹️ Let's Connect!
-
-<p align="center">
-  <a href="https://github.com/ayxxxxx"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://namemc.com/profile/ayxxxxx"><img src="https://img.shields.io/badge/NameMC-%23000000.svg?&style=for-the-badge&logo=minecraft&logoColor=white"/></a>
-  <!-- Add more links like Discord, LinkedIn, or a personal website if you'd like -->
-</p>
+![](https://komarev.com/ghpvc/?username=ayxxxxx)
