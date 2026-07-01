@@ -1,4 +1,3 @@
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="50%" valign="top" style="border: none; background: #0b0f19; padding: 10px; border-radius: 6px; font-family: monospace; line-height: 1.05; font-size: 10.5px; white-space: pre; letter-spacing: -1px; text-align: center;">
 <img width="335" height="597" alt="images" src="https://github.com/user-attachments/assets/b9f135cc-ea3b-4df3-8f97-66abb173c43d" />
@@ -20,4 +19,3 @@
       <img src="https://count.getloli.com/get/@ayxxxxx" alt="Moe Counter" />
     </td>
   </tr>
-</table>
