@@ -16,7 +16,7 @@
       <span style="color:#38bdf8;"><b>Palette</b></span><br/>
       <img src="https://img.shields.io/badge/-%230b0f19?style=flat-square&color=0b0f19" width="50"/> <img src="https://img.shields.io/badge/-%231e3a8a?style=flat-square&color=1e3a8a" width="50"/> <img src="https://img.shields.io/badge/-%232563eb?style=flat-square&color=2563eb" width="50"/> <img src="https://img.shields.io/badge/-%230ea5e9?style=flat-square&color=0ea5e9" width="50"/> <img src="https://img.shields.io/badge/-%2338bdf8?style=flat-square&color=38bdf8" width="50"/>
       <br/><br/>
-      <span style="color:#38bdf8;"><b>// Profile Views</b></span><br/>
+      <span style="color:#38bdf8;"><b>Profile Views</b></span><br/>
       <img src="https://count.getloli.com/get/@ayxxxxx" alt="Moe Counter" />
     </td>
   </tr>
