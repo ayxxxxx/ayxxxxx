@@ -4,6 +4,9 @@
 <img width="335" height="597" alt="images" src="https://github.com/user-attachments/assets/b9f135cc-ea3b-4df3-8f97-66abb173c43d" />
     </td>
     <td width="50%" valign="top" style="border: none; padding-left: 25px; font-family: monospace; font-size: 14px; line-height: 1.6; padding-top: 20px;">
+      <span style="color:#38bdf8;"><b>About Me</b></span><br/>
+      • Developing for fun, maybe a job in the future <br/>
+      • Big anime fan and electronics fein <br/>
       <span style="color:#38bdf8;"><b>Ecosystem</b></span><br/>
       <img src="https://img.shields.io/badge/C%2B%2B-38bdf8?style=flat-square&logo=c%2B%2B&logoColor=0b0f19" alt="C++"/> <img src="https://img.shields.io/badge/C%23-0ea5e9?style=flat-square&logo=csharp&logoColor=white" alt="C#"/> <img src="https://img.shields.io/badge/Rust-2563eb?style=flat-square&logo=rust&logoColor=white" alt="Rust"/><br/>
       <img src="https://img.shields.io/badge/Arduino-1e3a8a?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/> <img src="https://img.shields.io/badge/Python-38bdf8?style=flat-square&logo=python&logoColor=0b0f19" alt="Python"/> <img src="https://img.shields.io/badge/Java-0ea5e9?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/><br/>
